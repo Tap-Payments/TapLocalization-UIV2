@@ -1,1 +1,2 @@
-# TapLocalization-UIV2
+# TapLocalization-UI
+View controller to select application language.
