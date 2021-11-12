@@ -6,7 +6,7 @@ Pod::Spec.new do |tapLocalizationUI|
     tapLocalizationUI.name = 'TapLocalization-UIV2'
     tapLocalizationUI.summary = 'View controller managing language selection.'
     tapLocalizationUI.requires_arc = true
-    tapLocalizationUI.version = '1.0.0'
+    tapLocalizationUI.version = '1.0.1'
     tapLocalizationUI.license = { :type => 'MIT', :file => 'LICENSE' }
     tapLocalizationUI.author = { 'Osama Rabie' => 'o.rabie@tap.company' }
     tapLocalizationUI.homepage = 'https://github.com/Tap-Payments/TapLocalization-UIV2'
